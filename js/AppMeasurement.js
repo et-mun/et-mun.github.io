@@ -1,6 +1,5 @@
 //initialize AppMeasurement
 var s_account="ageo1xxpnwettrainingsuite"
-Implement Analytics using JavaScript 70
 var s=s_gi(s_account)
 /******** VISITOR ID SERVICE CONFIG - REQUIRES VisitorAPI.js ********/
 s.visitor=Visitor.getInstance("25B646D157BEDE007F000101@AdobeOrg")
