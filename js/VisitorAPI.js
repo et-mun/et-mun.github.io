@@ -2193,18 +2193,18 @@ var e = function() {
 /* 
 ========== DO NOT ALTER ANYTHING BELOW THIS LINE ========== 
 Version and copyright section 
-*/ 
- 
+*/
+
 // Visitor API code library section 
- 
+
 // Put Visitor.getInstance at the end of the file, after the code library
 
-var visitor = Visitor.getInstance("25B646D157BEDE007F000101@AdobeOrg", { 
-     trackingServer: "etmun.sc.omtrdc.net", // same as s.trackingServer 
-     // trackingServerSecure: "etmun.sc.omtrdc.net", // same as s.trackingServerSecure 
- 
-     // To enable CNAME support, add the following configuration variables 
-     // If you are not using CNAME, DO NOT include these variables 
-     // marketingCloudServer: "etmun.sc.omtrdc.net", 
-     // marketingCloudServerSecure: "etmun.sc.omtrdc.net" // same as s.trackingServerSecure 
-}); 
+var visitor = Visitor.getInstance("25B646D157BEDE007F000101@AdobeOrg", {
+    trackingServer: "etmun.sc.omtrdc.net", // same as s.trackingServer 
+    // trackingServerSecure: "etmun.sc.omtrdc.net", // same as s.trackingServerSecure 
+
+    // To enable CNAME support, add the following configuration variables 
+    // If you are not using CNAME, DO NOT include these variables 
+    // marketingCloudServer: "etmun.sc.omtrdc.net", 
+    // marketingCloudServerSecure: "etmun.sc.omtrdc.net" // same as s.trackingServerSecure 
+});
