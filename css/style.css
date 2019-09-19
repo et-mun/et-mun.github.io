@@ -12,6 +12,10 @@ div.divider {
     margin: 8px;
 }
 
+div.nav-wrapper {
+	background-color: #275590;
+}
+
 main {
     flex: 1 0 auto;
 }
